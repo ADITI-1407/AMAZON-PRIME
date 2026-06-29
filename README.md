@@ -8,3 +8,4 @@ Key highlights of the dashboard include:
 ⭐ Insights into content ratings and popularity trends
 📈 Category-wise performance to understand which genres dominate the platform
 Through this project, I strengthened my skills in Power BI, data modeling, DAX, and data visualization, while also gaining experience in transforming raw datasets into meaningful and actionable insights.
+https://github.com/ADITI-1407/AMAZON-PRIME/blob/main/Screenshot%202026-03-11%20220347.png
